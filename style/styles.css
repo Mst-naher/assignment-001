@@ -288,8 +288,9 @@ margin-top: 40px;
 
 /* footer */
 .footer-container {
-  background-color: rgb(238, 238, 238);
-  /* height: 400px; */
+  background-color: rgb(253, 250, 250);
+  height: 400px;
+  align-items: center;
 
 }
 
@@ -298,18 +299,38 @@ margin-top: 40px;
   text-decoration: none;
 }
 
+.footer-container{
+  
+}
+
+.footer-logo{
+  margin-top: 100px;
+  font-weight: 900px;
+  color:#4E47FF ;
+  font-weight: bolder;
+   text-align: center;
+}
+.footer-container{
+  margin-top: 100px;
+  background-color: FFFFFF;
+}
 .footer-ul li {
   list-style: none;
   display: inline;
   justify-content: space-around;
-  align-items: center;
-  margin-left: 300px;
-  margin-top: 20px;
+  text-align: center;
   padding: 10px;
+  margin: 30px;
 
 }
 
-h1,
+.footer-content{
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
 p {
   text-align: center;
 }
