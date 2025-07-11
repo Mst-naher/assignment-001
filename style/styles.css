@@ -125,7 +125,7 @@ nav ul li a {
 
 
 .action-container {
-  margin-top: 130px;
+  margin-top:0px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -207,7 +207,8 @@ nav ul li a {
 
 /* footer */
 .footer-container {
-  height: 400px;
+  background-color: rgb(238, 238, 238);
+  /* height: 400px; */
 
 }
 
