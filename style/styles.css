@@ -165,6 +165,11 @@ nav ul li a {
   border-radius: 10px;
 }
 
+.btn:hover{
+  background-color: rgb(33, 172, 33);
+  color: blueviolet;
+}
+
 /* section- productive - users */
 
 .productive-users {
@@ -299,9 +304,9 @@ margin-top: 40px;
   text-decoration: none;
 }
 
-.footer-container{
+/* .footer-container{
   
-}
+} */
 
 .footer-logo{
   margin-top: 100px;
